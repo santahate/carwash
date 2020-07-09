@@ -1,0 +1,14 @@
+django
+xlrd
+xhtml2pdf
+anyjson
+xlwt
+django-localeurl
+django-cors-headers
+requests_oauthlib
+lxml
+mysqlclient
+mistune
+pyTelegramBotAPI
+djangorestframework
+psycopg2

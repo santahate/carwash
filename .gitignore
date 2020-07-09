@@ -1,0 +1,13 @@
+.idea/
+*.pyc
+media/
+pids/*
+logs/*
+uwsgi.ini
+.vscode
+settings_local.py
+staticfiles/
+*/__pycache__/
+*.sqlite3
+.env/
+env/
